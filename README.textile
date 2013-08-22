@@ -1,6 +1,7 @@
 h1. Ruby I18n
 
 !https://secure.travis-ci.org/svenfuchs/i18n.png?branch=master(Build Status)!:http://travis-ci.org/svenfuchs/i18n
+!https://www.codeship.io/projects/ccf2e9a0-ed8b-0130-d82a-765d184c9969/status
 
 Ruby Internationalization and localization solution.
 
